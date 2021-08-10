@@ -1,0 +1,15 @@
+.main{
+  padding: 20px 30px;
+  margin: 20px;
+  border: 2px solid rgb(250, 0, 62);
+  border-radius: 5px;
+}
+.parent-id , .child-id{
+  display: inline-block;
+}
+
+.subtract , .plus{
+  padding: 1px 8px;
+}
+
+
